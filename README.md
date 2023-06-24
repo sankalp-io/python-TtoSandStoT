@@ -1,4 +1,4 @@
-# python-TtoSandStoT
+Python Text to Speech And Speech to Text
 
 The Python project you shared is a text-to-speech and speech-to-text converter application. It allows users to convert text into audio speech and vice versa using the Python programming language. The application uses various libraries and modules such as tkinter for the graphical user interface, speech_recognition for speech recognition, pyttsx3 for text-to-speech conversion, and win32com.client for Windows API integration.
 
