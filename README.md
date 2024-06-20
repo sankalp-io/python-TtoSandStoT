@@ -21,16 +21,31 @@ The application provides options to clear the text boxes, go back to the main me
 Please note that the code provided represents the implementation of the application. If you have any specific questions or need further assistance with this project, feel free to ask.
 
 Screen Shots :
+
 1. Running the code in the Terminal.
+
+   
 ![PY1](https://github.com/sankalp-io/python-TtoSandStoT/assets/99067768/37aec8c7-99a9-411c-a846-5ba5ea1b1652)
 
+
+
 2.Speech to Text.
+
+
 ![PY2](https://github.com/sankalp-io/python-TtoSandStoT/assets/99067768/b2510b8a-8d7a-4c9e-b27e-5320e59eb47d)
 
+
+
 3.Text to Speech
+
+
 ![PY#](https://github.com/sankalp-io/python-TtoSandStoT/assets/99067768/67dc2db7-ad81-47a3-b585-92577f8be116)
 
+
+
 4.Reading textfile to Speech Format
+
+
 ![PY4](https://github.com/sankalp-io/python-TtoSandStoT/assets/99067768/773655ab-4ec3-45ce-a2bd-51e31816c091)
 
 
